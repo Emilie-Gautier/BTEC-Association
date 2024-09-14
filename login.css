@@ -1,0 +1,30 @@
+body {
+    background: url('SREENCAST/dessin.jpg') center/cover no-repeat; 
+      margin: 20px;
+      padding: 20px;
+      height: 100vh;
+      display: flex;
+      /*justify-content: flex-start;
+      align-items: flex-start;*/
+    font-family: cursive;
+    
+}
+
+
+#conteneur {
+      margin: 20px;
+      padding: 20px;
+  line-height: 1.75;
+}
+
+/*body::before {
+    content: "";
+    position: absolute;
+    top: 50;
+    left: 0;
+    width: 80%;
+    height: 80%;
+    z-index: -1; /* Place l'image derrière le contenu */
+    /*background: inherit; /* Utilise les mêmes propriétés que le body */
+/*}
+*/
